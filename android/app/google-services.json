@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "744175678777",
+    "firebase_url": "https://schoolhub-3ea9d-default-rtdb.firebaseio.com",
+    "project_id": "schoolhub-3ea9d",
+    "storage_bucket": "schoolhub-3ea9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744175678777:android:457ab4d35150dd7a2ba4e8",
+        "android_client_info": {
+          "package_name": "com.example.school_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0x0RlW7B6BJAQuuk-BvOLRVKoJHcqW5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744175678777:android:010285a2f278c8432ba4e8",
+        "android_client_info": {
+          "package_name": "com.example.version_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0x0RlW7B6BJAQuuk-BvOLRVKoJHcqW5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
