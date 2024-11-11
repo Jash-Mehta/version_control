@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "minRequiredVersion": "1.0.0",
+  "releaseNotes": "Initial release",
+  "downloadUrl": "", // We'll add this later
+  "forceUpdate": false
+}
